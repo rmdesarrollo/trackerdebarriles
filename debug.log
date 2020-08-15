@@ -1,0 +1,2 @@
+[0803/004120.789:ERROR:file_io.cc(134)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0803/004722.936:ERROR:file_io.cc(134)] WriteFile: Se está cerrando la canalización. (0xE8)
